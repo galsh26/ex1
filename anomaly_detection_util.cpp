@@ -4,6 +4,8 @@
 // amit add here your id :)
 // Gal Schlifstein, id: 209492925
 
+// try 2 to merge files
+
 // returns the mean of X
 float mean(const float* x, int size) {
     float sum = 0;
