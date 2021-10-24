@@ -1,0 +1,4 @@
+/home/galsh26/cmake-3.17.0-Linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Projects/yearB/clion projects/ex1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Projects/yearB/clion projects/ex1/cmake-build-debug
